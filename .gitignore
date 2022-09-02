@@ -3,6 +3,7 @@
 **/**/appsettings.local.json
 *.db
 
+
 ## VS Code, Visual Studio, Jet Brains Rider, 
 ## ionide is FSharp Plugin for VS Code that shows up when enabled and sees sln file 
 .vs/
